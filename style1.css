@@ -1,0 +1,304 @@
+.maincont{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 630px;
+    width: 500px;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkmagenta;
+    background-color: lightgrey;
+    /* padding-left: 500px; */
+    
+}
+
+
+.difi{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: 1px solid black ;
+   
+    
+}
+
+.subcont{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    height: 530px;
+    width: 400px;
+    background-color: lightsteelblue;
+    /* padding-bottom: 20px; */
+    /* text-align: center; */
+    
+    
+}
+
+#usernum{
+    height: 50px;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    padding-left: 5px;
+    justify-content:space-between;
+    align-items: center;
+    text-align: center ;
+    padding-right: 5px;
+    padding-top: 4px;
+}
+
+.button7{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    font-size: 40px;
+    /* padding-left: 55px; */
+}
+
+.button8{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.button9{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.buttonadd{
+    
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    /* padding-left: 5px; */
+    font-size: 40px;
+}
+
+
+.row2{
+    display: flex;
+    flex-direction: row;
+    padding-left: 5px;
+    justify-content:space-between;
+    align-items: center;
+    text-align: center ;
+    padding-right: 5px;
+    padding-top: 4px;
+}
+
+.button4{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    font-size: 40px;
+    /* padding-left: 55px; */
+}
+
+.button5{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.button6{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.buttonsub{
+    
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    /* padding-left: 5px; */
+    font-size: 40px;
+}
+
+.row3{
+    display: flex;
+    flex-direction: row;
+    padding-left: 5px;
+    justify-content:space-between;
+    align-items: center;
+    text-align: center ;
+    padding-right: 5px;
+    padding-top: 4px;
+}
+
+.button1{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    font-size: 40px;
+    /* padding-left: 55px; */
+}
+
+.button2{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.button3{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.buttonMUL{
+    
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    /* padding-left: 5px; */
+    font-size: 40px;
+    text-align: center;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.row4{
+    display: flex;
+    flex-direction: row;
+    padding-left: 5px;
+    justify-content:space-between;
+    align-items: center;
+    text-align: center ;
+    padding-right: 5px;
+    padding-top: 4px;
+}
+
+.button0{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    font-size: 40px;
+    /* padding-left: 55px; */
+}
+
+.buttondote{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.buttonc{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.buttondiv{
+    
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    /* padding-left: 5px; */
+    font-size: 40px;
+}
+
+.row5{
+    display: flex;
+    flex-direction: row;
+    padding-left: 5px;
+    justify-content:space-between;
+    align-items: center;
+    text-align: center ;
+    padding-right: 5px;
+    padding-top: 4px;
+}
+
+.buttonce{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    font-size: 40px;
+    /* padding-left: 55px; */
+}
+
+.buttonper{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.buttondel{
+
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    padding-left: 5px;
+    font-size: 40px;
+}
+
+.buttonequ{
+    
+    height: 90px;
+    width:80px;
+    color:white;
+    background-color: blueviolet;
+    /* padding-left: 5px; */
+    font-size: 40px;
+}
